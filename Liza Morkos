@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head style="color: light blue ; font-size: 30px"> Liza Morkos</title>
+	</head> <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id= UA-118334421-1
+"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118334421-1
+');
+</script>
+	<body>
+	<a href="http://hmpg.net/"> <img src='https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p320x320/29216923_10211639342247135_6780525549493157888_n.jpg?_nc_cat=0&oh=d7bd51ac1e6004f8c74967fd6a363fe7&oe=5B5E719B'/></a>
+	    
+	        <p style=" font-family: Arial; color: blue; font-size: 25px" > <em>Hello, Im liza Im a 21 year old college student at the Smith school of business</em> </p>
+             <p style=" color:pink ; font-size: 20px;background-color: skyblue" > Places Ive Worked</p>
+	           <ol>
+                 
+                <a href= "https://www.ritasfranchises.com/stores/store.cfm/Wisteria%20Drive-20874/store/3328 <li style="font-size: 19.9px; color:green; font-family: Arial"<p>Ritas Itlian Ice</p></a>></li>
+                <a href= "https://twitter.com/andpizza?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"    <li style=" font-size: 20px; color: black; font-family: Verdana"<p>AndPizza</p> </a></li>
+                    <a href="https://www.bedbathandbeyond.com"<li style=" font-size: 20.1px; color: blue; font-family: New Times Roman"<p>Bed Bath&beyond</p></a> ></li>
+                </ol>
+            <p style=" color:skyblue; background-color: pink;font-size:21px" > places I've Lived</p>        
+                <ul>
+                    <li> Egypr</li>
+                    <li> USA</li>
+                    <ol> <p> States Ive Visted </p> 
+                        <li> New York</li>
+                        <li> Georgia </li>
+                        <li> Tennessee</li> 
+                </ul>
+            <p style=" color:red; background-color:black;font-size:22px" > My Favorite Food </P>     
+                <ul>
+                    <li>Pizza</li>
+                    <li> Salad</li>
+                    <li> Tacos</li>
+                </ul>
+	    </body>
+</html>
