@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
 	<head style="color: light blue ; font-size: 30px"> Liza Morkos</title>
-	</head>
-	<body>
+	</head> <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118334421-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118334421-1');
+</script>
+	<body> 
 	<a href="http://hmpg.net/"> <img src='https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p320x320/29216923_10211639342247135_6780525549493157888_n.jpg?_nc_cat=0&oh=d7bd51ac1e6004f8c74967fd6a363fe7&oe=5B5E719B'/></a>
 	    
 	        <p style=" font-family: Arial; color: blue; font-size: 25px" > <em>Hello, Im liza Im a 21 year old college student at the Smith school of business</em> </p>
